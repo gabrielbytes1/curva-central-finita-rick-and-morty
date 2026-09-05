@@ -16,17 +16,19 @@ A pesquisa foi desenvolvida em etapas no NotebookLM: conceito geral; origem e pr
 - [Cicatrizes do processo](cicatrizes.md)
 
 ## Fontes principais
-- CBR — *Rick and Morty: What Is the Central Finite Curve?*
-- GameRant — *Rick And Morty: What Is the Central Finite Curve?*
-- Wikipedia — *Rick and Morty season 5*
-- YouTube — vídeo utilizado como fonte complementar
-- Rick and Morty Wiki/Fandom — *Evil Morty*
+
+- [CBR — Rick and Morty: What Is the Central Finite Curve?](https://www.cbr.com/rick-morty-central-finite-curve/)
+- [GameRant — Rick And Morty: What Is the Central Finite Curve?](https://gamerant.com/rick-and-morty-central-finite-curve/)
+- [Wikipedia — Rick and Morty season 5](https://en.wikipedia.org/wiki/Rick_and_Morty_season_5)
+- [YouTube — vídeo utilizado como fonte complementar](https://www.youtube.com/watch?v=Z1bRU5FSHWA)
+- [Rick and Morty Wiki/Fandom — Evil Morty](https://rickandmorty.fandom.com/wiki/Evil_Morty)
 
 ## Arquivos
-- `mini-guia.md` — síntese principal da pesquisa.
-- `glossario.md` — principais termos.
-- `prompts.md` — prompts e objetivos.
-- `cicatrizes.md` — evolução da pesquisa.
+
+- `mini-guia.md` — síntese principal da pesquisa sobre a Curva Central Finita.
+- `glossario.md` — principais termos relacionados ao tema.
+- `prompts.md` — prompts utilizados durante a investigação e seus objetivos.
+- `cicatrizes.md` — registro das etapas e do refinamento da pesquisa.
 
 ## Níveis de evidência
 - **Canon:** informação apresentada ou confirmada pela série, conforme a pesquisa.
