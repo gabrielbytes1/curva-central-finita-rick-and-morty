@@ -41,3 +41,11 @@ A pesquisa foi conduzida por refinamento progressivo: exploração, aprofundamen
 > Com base exclusivamente nas fontes e na investigação realizada, crie um glossário dos principais termos necessários para compreender a Curva Central Finita e sua história em Rick and Morty. Para cada termo, apresente uma definição curta, clara e baseada nas fontes. Inclua apenas termos relevantes para o entendimento do tema.
 
 **Objetivo:** criar um material de consulta rápida.
+
+
+## Observação metodológica
+
+Os prompts foram aplicados de forma progressiva. As primeiras perguntas buscaram ampliar a compreensão do tema; as seguintes restringiram o foco a aspectos específicos; a auditoria verificou o nível de evidência; e a síntese e o glossário transformaram a pesquisa em materiais de consulta.
+
+A sequência documentada termina na Cicatriz 8 — Glossário. Nenhuma etapa posterior é apresentada como realizada sem ter sido efetivamente utilizada no NotebookLM.
+
