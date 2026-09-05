@@ -8,6 +8,13 @@ Investigar o que é a Curva Central Finita, sua origem, funcionamento e importâ
 ## Metodologia
 A pesquisa foi desenvolvida em etapas no NotebookLM: conceito geral; origem e propósito; funcionamento; Evil Morty; auditoria; importância narrativa; síntese; glossário. A auditoria foi usada para evitar que interpretações ou informações externas às fontes fossem tratadas como fatos.
 
+## Conteúdo
+
+- [Mini-guia](mini-guia.md)
+- [Glossário](glossario.md)
+- [Prompts utilizados](prompts.md)
+- [Cicatrizes do processo](cicatrizes.md)
+
 ## Fontes principais
 - CBR — *Rick and Morty: What Is the Central Finite Curve?*
 - GameRant — *Rick And Morty: What Is the Central Finite Curve?*
